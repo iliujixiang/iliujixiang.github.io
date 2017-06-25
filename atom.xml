@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-20T13:06:10.997Z</updated>
+  <updated>2017-06-25T02:29:46.069Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pronunciation</title>
+    <link href="http://yoursite.com/2017/06/25/pronunciation/"/>
+    <id>http://yoursite.com/2017/06/25/pronunciation/</id>
+    <published>2017-06-25T02:14:39.000Z</published>
+    <updated>2017-06-25T02:29:46.069Z</updated>
+    
+    <content type="html">&lt;p&gt;最近又学习了一遍赖世雄美语音标。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;不光是看了赖老师的书，其它的也看。发现音标不止有一种，还有新旧的区别，所以看不同的版本就容易混淆。查阅了若干资料，做了三张图。对照此图，再学习的时候及时对照，就容易辨别其版本了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/%E7%BE%8E%E8%AF%AD%E9%9F%B3%E6%A0%87%20-%20%E5%85%83%E9%9F%B3.png&quot; alt=&quot;元音音标&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/%E7%BE%8E%E8%AF%AD%E9%9F%B3%E6%A0%87%20-%20%E8%BE%85%E9%9F%B3.png&quot; alt=&quot;辅音音标&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/%E7%BE%8E%E8%AF%AD%E9%9F%B3%E6%A0%87%20-%20%E5%AD%97%E6%AF%8D.png&quot; alt=&quot;字母音标&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图例：&lt;/p&gt;
+&lt;p&gt;绿色的是K.K.音标，粉红色的是D.J.音标。下方灰色的是旧时写法。&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.06.25 10:29:12&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近又学习了一遍赖世雄美语音标。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="临时" scheme="http://yoursite.com/categories/%E4%B8%B4%E6%97%B6/"/>
+    
+    
+      <category term="音标" scheme="http://yoursite.com/tags/%E9%9F%B3%E6%A0%87/"/>
+    
+  </entry>
   
   <entry>
     <title>奋战8天终于整好了</title>
