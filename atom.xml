@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-25T02:29:46.069Z</updated>
+  <updated>2017-10-05T08:18:45.928Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2017/10/05/test/"/>
+    <id>http://yoursite.com/2017/10/05/test/</id>
+    <published>2017-10-05T08:17:39.000Z</published>
+    <updated>2017-10-05T08:18:45.928Z</updated>
+    
+    <content type="html">&lt;p&gt;开始写起来～～～&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;test&lt;br&gt;test&lt;br&gt;练习&lt;br&gt;练习练习&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.10.05 16:18:11&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;开始写起来～～～&lt;br&gt;
+    
+    </summary>
+    
+      <category term="临时" scheme="http://yoursite.com/categories/%E4%B8%B4%E6%97%B6/"/>
+    
+    
+      <category term="试验" scheme="http://yoursite.com/tags/%E8%AF%95%E9%AA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>pronunciation</title>
