@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-22T13:23:28.099Z</updated>
+  <updated>2017-10-29T07:43:46.744Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,64 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Web与网络的基础知识</title>
+    <link href="http://yoursite.com/2017/10/29/20171029_WEB1WEB/"/>
+    <id>http://yoursite.com/2017/10/29/20171029_WEB1WEB/</id>
+    <published>2017-10-29T07:17:00.000Z</published>
+    <updated>2017-10-29T07:43:46.744Z</updated>
+    
+    <content type="html">&lt;p&gt;新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;一、基础知识&quot;&gt;一、基础知识&lt;/h1&gt;&lt;p&gt;主要讲述了三方面的内容：&lt;/p&gt;
+&lt;h2 id=&quot;互联网_vs_Web&quot;&gt;互联网 vs Web&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;计算机网络 Network&lt;/li&gt;
+&lt;li&gt;什么是通信协议&lt;/li&gt;
+&lt;li&gt;互联网历史&lt;/li&gt;
+&lt;li&gt;TCP/IP协议族（应用层、传输层、网络层、链路层）&lt;/li&gt;
+&lt;li&gt;互联网 Internet&lt;/li&gt;
+&lt;li&gt;互联网上的服务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;HTTP、DNS&quot;&gt;HTTP、DNS&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;什么是Web&lt;/li&gt;
+&lt;li&gt;Web三个基本要素（超文本标记语言、超文本传输协议、统一资源标识符）&lt;/li&gt;
+&lt;li&gt;HTTP协议：Web通信的基础&lt;/li&gt;
+&lt;li&gt;HTTP协议通信流程&lt;/li&gt;
+&lt;li&gt;TCP/IP通信流程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;URI_URL_URN&quot;&gt;URI URL URN&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;URI 标识资源&lt;/li&gt;
+&lt;li&gt;URI 的两种形式（URL URN）&lt;/li&gt;
+&lt;li&gt;URL 统一资源定位符&lt;/li&gt;
+&lt;li&gt;URN 统一资源名称&lt;/li&gt;
+&lt;li&gt;端口号（HTTP：80，HTTPS：443）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;总结&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB1WEB20.png&quot; alt=&quot;第1课简要总结&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;二、POSTMAN软件的操作演示&quot;&gt;二、POSTMAN软件的操作演示&lt;/h1&gt;&lt;p&gt;可以直接到它的官网上下载安装这个软件，后面的课程会用到。&lt;/p&gt;
+&lt;p&gt;官网是&lt;a href=&quot;https://www.getpostman.com&quot; title=&quot;POSTMAN&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;POSTMAN&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;演示（略）&lt;/p&gt;
+&lt;h1 id=&quot;三、福利领取&quot;&gt;三、福利领取&lt;/h1&gt;&lt;p&gt;先注册京东云，实名论证，然后凭链接领取。&lt;/p&gt;
+&lt;p&gt;福利是京东云主机的三个月账户。&lt;/p&gt;
+&lt;p&gt;规格是CPU1核，内存2G。&lt;/p&gt;
+&lt;p&gt;为了课程的统一，领取时选取的系统选Ubantu 16.04 64位。&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.10.29 15:49:26&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》&lt;br&gt;
+    
+    </summary>
+    
+      <category term="课程笔记" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="网络" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>我究竟是谁？</title>
@@ -335,36 +393,6 @@
   </entry>
   
   <entry>
-    <title>20160313</title>
-    <link href="http://yoursite.com/2016/03/13/20160313/"/>
-    <id>http://yoursite.com/2016/03/13/20160313/</id>
-    <published>2016-03-13T12:14:46.000Z</published>
-    <updated>2016-03-13T12:18:01.164Z</updated>
-    
-    <content type="html">&lt;p&gt;嘻嘻，这是我的第二篇博文&lt;/p&gt;
-&lt;h1 id=&quot;这个也是写着玩的&quot;&gt;这个也是写着玩的&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;&lt;h3 id=&quot;这是三级标题&quot;&gt;这是三级标题&lt;/h3&gt;&lt;p&gt;哈哈&lt;/p&gt;
-&lt;p&gt;今天整了一下午，终于会了一些。加油，小祥～～～～～&lt;/p&gt;
-&lt;p&gt;正文正文正文&lt;/p&gt;
-&lt;p&gt;正文正文正文正文正文&lt;/p&gt;
-&lt;p&gt;写着玩。。。。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;嘻嘻，这是我的第二篇博文&lt;/p&gt;
-&lt;h1 id=&quot;这个也是写着玩的&quot;&gt;这个也是写着玩的&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;&lt;h3 id=&quot;这是三级标题&quot;&gt;这是三级标题&lt;/h3&gt;&lt;p&gt;哈哈&lt;/p&gt;
-&lt;p&gt;今天整了一下午，终于会了一些。加油，小祥～～
-    
-    </summary>
-    
-      <category term="临时" scheme="http://yoursite.com/categories/%E4%B8%B4%E6%97%B6/"/>
-    
-    
-      <category term="试玩" scheme="http://yoursite.com/tags/%E8%AF%95%E7%8E%A9/"/>
-    
-  </entry>
-  
-  <entry>
     <title>20160313-pic</title>
     <link href="http://yoursite.com/2016/03/13/20160313-pic/"/>
     <id>http://yoursite.com/2016/03/13/20160313-pic/</id>
@@ -387,6 +415,36 @@
 &lt;h1 id=&quot;这个也是写着玩的&quot;&gt;这个也是写着玩的&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;&lt;p&gt;试一下插入图片，看效果如何？&lt;/p&gt;
 &lt;h3 id=&quot;这是三级标题&quot;&gt;这是三级标题&lt;/h3&gt;&lt;p&gt;哈哈&lt;/p&gt;
 &lt;p&gt;
+    
+    </summary>
+    
+      <category term="临时" scheme="http://yoursite.com/categories/%E4%B8%B4%E6%97%B6/"/>
+    
+    
+      <category term="试玩" scheme="http://yoursite.com/tags/%E8%AF%95%E7%8E%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20160313</title>
+    <link href="http://yoursite.com/2016/03/13/20160313/"/>
+    <id>http://yoursite.com/2016/03/13/20160313/</id>
+    <published>2016-03-13T12:14:46.000Z</published>
+    <updated>2016-03-13T12:18:01.164Z</updated>
+    
+    <content type="html">&lt;p&gt;嘻嘻，这是我的第二篇博文&lt;/p&gt;
+&lt;h1 id=&quot;这个也是写着玩的&quot;&gt;这个也是写着玩的&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;&lt;h3 id=&quot;这是三级标题&quot;&gt;这是三级标题&lt;/h3&gt;&lt;p&gt;哈哈&lt;/p&gt;
+&lt;p&gt;今天整了一下午，终于会了一些。加油，小祥～～～～～&lt;/p&gt;
+&lt;p&gt;正文正文正文&lt;/p&gt;
+&lt;p&gt;正文正文正文正文正文&lt;/p&gt;
+&lt;p&gt;写着玩。。。。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;嘻嘻，这是我的第二篇博文&lt;/p&gt;
+&lt;h1 id=&quot;这个也是写着玩的&quot;&gt;这个也是写着玩的&lt;/h1&gt;&lt;h2 id=&quot;这是二级标题&quot;&gt;这是二级标题&lt;/h2&gt;&lt;h3 id=&quot;这是三级标题&quot;&gt;这是三级标题&lt;/h3&gt;&lt;p&gt;哈哈&lt;/p&gt;
+&lt;p&gt;今天整了一下午，终于会了一些。加油，小祥～～
     
     </summary>
     
