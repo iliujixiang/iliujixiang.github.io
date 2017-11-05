@@ -4,24 +4,23 @@
 <head>
   <meta charset="UTF-8">
   
-    <title>Web与网络的基础知识 | 勤而行之·吉祥</title>
+    <title>HTTP基础 | 勤而行之·吉祥</title>
     <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
     
     <meta name="author" content="Liu Jixiang">
     
 
     
-    <meta name="description" content="新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》">
+    <meta name="description" content="新生大学课程《Web与网络基础》第2课：《HTTP基础》">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Web与网络的基础知识">
-<meta property="og:url" content="http://yoursite.com/2017/10/29/20171029_WEB1WEB/index.html">
+<meta property="og:title" content="HTTP基础">
+<meta property="og:url" content="http://yoursite.com/2017/11/05/20171105_WEB2HTTP/index.html">
 <meta property="og:site_name" content="勤而行之·吉祥">
-<meta property="og:description" content="新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》">
-<meta property="og:image" content="http://7xs2f1.com1.z0.glb.clouddn.com/WEB1WEB20.png">
-<meta property="og:updated_time" content="2017-10-29T07:43:46.744Z">
+<meta property="og:description" content="新生大学课程《Web与网络基础》第2课：《HTTP基础》">
+<meta property="og:updated_time" content="2017-11-05T04:51:56.667Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Web与网络的基础知识">
-<meta name="twitter:description" content="新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》">
+<meta name="twitter:title" content="HTTP基础">
+<meta name="twitter:description" content="新生大学课程《Web与网络基础》第2课：《HTTP基础》">
 
     
     <link rel="alternative" href="/atom.xml" title="勤而行之·吉祥" type="application/atom+xml">
@@ -83,14 +82,14 @@
 		<header class="article-info clearfix">
   <h1 itemprop="name">
     
-      <a href="/2017/10/29/20171029_WEB1WEB/" title="Web与网络的基础知识" itemprop="url">Web与网络的基础知识</a>
+      <a href="/2017/11/05/20171105_WEB2HTTP/" title="HTTP基础" itemprop="url">HTTP基础</a>
   </h1>
   <p class="article-author">By
        
 		<a href="/about" title="Liu Jixiang" target="_blank" itemprop="author">Liu Jixiang</a>
 		
   <p class="article-time">
-    <time datetime="2017-10-29T07:17:00.000Z" itemprop="datePublished"> 发表于 2017-10-29</time>
+    <time datetime="2017-11-05T07:17:00.000Z" itemprop="datePublished"> 发表于 2017-11-05</time>
     
   </p>
 </header>
@@ -99,46 +98,52 @@
 		<div id="toc" class="toc-article">
 			<strong class="toc-title">文章目录</strong>
 		
-			<ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#一、基础知识"><span class="toc-number">1.</span> <span class="toc-text">一、基础知识</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#互联网_vs_Web"><span class="toc-number">1.1.</span> <span class="toc-text">互联网 vs Web</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#HTTP、DNS"><span class="toc-number">1.2.</span> <span class="toc-text">HTTP、DNS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#URI_URL_URN"><span class="toc-number">1.3.</span> <span class="toc-text">URI URL URN</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、POSTMAN软件的操作演示"><span class="toc-number">2.</span> <span class="toc-text">二、POSTMAN软件的操作演示</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、福利领取"><span class="toc-number">3.</span> <span class="toc-text">三、福利领取</span></a></li></ol>
+			<ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#一、课前闲聊"><span class="toc-number">1.</span> <span class="toc-text">一、课前闲聊</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、由请求说开去"><span class="toc-number">2.</span> <span class="toc-text">二、由请求说开去</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#请求"><span class="toc-number">2.1.</span> <span class="toc-text">请求</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#协议"><span class="toc-number">2.2.</span> <span class="toc-text">协议</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#协议的组成"><span class="toc-number">2.3.</span> <span class="toc-text">协议的组成</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、传输过程"><span class="toc-number">3.</span> <span class="toc-text">三、传输过程</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#四、HTTP"><span class="toc-number">4.</span> <span class="toc-text">四、HTTP</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#五、结语"><span class="toc-number">5.</span> <span class="toc-text">五、结语</span></a></li></ol>
 		
 		</div>
 		
-		<p>新生大学课程《Web与网络基础》第1课：《Web与网络的基础知识》<br><a id="more"></a></p>
-<h1 id="一、基础知识">一、基础知识</h1><p>主要讲述了三方面的内容：</p>
-<h2 id="互联网_vs_Web">互联网 vs Web</h2><ul>
-<li>计算机网络 Network</li>
-<li>什么是通信协议</li>
-<li>互联网历史</li>
-<li>TCP/IP协议族（应用层、传输层、网络层、链路层）</li>
-<li>互联网 Internet</li>
-<li>互联网上的服务</li>
+		<p>新生大学课程《Web与网络基础》第2课：《HTTP基础》<br><a id="more"></a></p>
+<h1 id="一、课前闲聊">一、课前闲聊</h1><p>徐老师已经多年不用windows了，现在主要是用 Mac 电脑。对于编程开发而言，什么是重要？什么最难？就是编程环境的配置。什么样的电脑配置编程环境最简单的？mac电脑。以至于现在产生了一个产业，就是在网页上直接编程。徐老师表示：一个不会配环境的人，他就很有可能学不会编程。</p>
+<p>Mac 电脑的操作系统在设计理念上与windows有很大的不同。windows电脑需要经常杀进程，麦克电脑可以不用杀进程，可以不用关机。Mac 电脑可以很大的提高效率。</p>
+<p>徐老师使用麦克电脑之后，还培养了一个很重要的习惯，就是付费的习惯。付费就是少时间啊。</p>
+<h1 id="二、由请求说开去">二、由请求说开去</h1><p>下面开始讲课</p>
+<h2 id="请求">请求</h2><p>现在很少有不用网络请求的应用了。现在的应用，连日历，图片，都跟网络有关。一个小小的请求，能给我们带来哪些思考？应该注意哪些东西？</p>
+<p>在浏览器打上网址，回车，它会自动在前面加上http或者https。http是一个协议。</p>
+<h2 id="协议">协议</h2><p>什么是协议？协议是计议和商议，在法律上还是合同的意思。是指双方约定的条款。在计算机的世界里充斥着协议。</p>
+<p>函数的三要素：一名字，二参数，三返回值。这就是定义函数者和使用函数者的一种协议。你只有遵从这个协议，才可能把这个函数调用起来。</p>
+<p>写一个程序的目的是什么？写一个函数的目的是什么？函数的目的是计算，程序也是。展现出来的结果都是计算出来的。阿里云的口号，<strong>一切都是为了计算</strong>。我们写程序的目的就是为了计算。<br>浏览器和服务端进行交互的目的是什么？交换数据，交往就要遵循一定的规则。学习编程就是学习一套<strong>规则</strong>。</p>
+<h2 id="协议的组成">协议的组成</h2><p>再以新生大学的网址（URL或者叫uri）为例，讲一下一个协议应该包含什么？</p>
+<p>一是名称，第二个是目标或当事人，第三个是具体的事情。</p>
+<p>比如http是名称，www.xinshengdaxue.com是目标，lesson1是具体事情。<br>如果没有后面的lesson1呢，它也是有具体的事情。在JS里面没有返回值，就是返回值。</p>
+<p>还有没有其他的协议。有，比如mailto、ftp、news、ssh等。最重要的两种协议，http，ftp。https不是另一种协议，它是http的加强版。大家要把重点放在<strong>http</strong>上。</p>
+<h1 id="三、传输过程">三、传输过程</h1><p>你在浏览器上发出了一个请求，服务器给你了一个返回，那么问题来了，这个请求是从哪里发出来的？是从你的浏览器发出来的吗？最终的出口肯定是你的网卡，然后你的网卡连着网线。知道这个过程可以使我们在学技术的时候，知道重点关注在哪。</p>
+<p>一个网址，它是针对人的，是写给我们看的。但是这个东西一定会被转化，它要转化成对机器能看懂的语言。它转化的目的是什么？是为了让下一个处理模块能识别你的信息。</p>
+<p>在未来的学习道路上，你一定会需要看别人的api，看别人的服务能给你提供什么能力。</p>
+<p>github右下角有一个api，要学会看这种东西。比如，REST API V3。点开，其中可以看到GET。<br>我们的URl会被转换格式，从浏览器到网络模块到网卡，再到互联网。是先有的网络模块才有的浏览器。</p>
+<p>网络模块的核心就是TCP/IP，他解决了最重要的两件事情，一是它可以给你找目标，二是把数据给你送出去。所有的操作系统都有网络模块，就是它的网络库。</p>
+<p>TCP/IP本身可以看成是一个程序，它是用c语言开发的一个程序。</p>
+<p>浏览器 - 网络模块 - TCP/IP - 网卡 - 节点 - 服务器。</p>
+<p>浏览器到网络模块到tcp ip到网卡，再通过网线，通过节点，再到达服务器。</p>
+<p>ping一下百度的IP： PING WWW.BAIDU.COM</p>
+<p>一个问题是：给人方便就给程序不方便。需要解析，解析是一个过程，过程就会耗费时间。谁来解析？dns解析。</p>
+<p>网络模块向dns请求，dns将ip返回给网络模块。这是一个耗时的过程。找到一个好的dns解析商非常重要。这也带来了一个产业。假如某一个国家把dns服务器给控制住了，那我们就上不去网了。</p>
+<p>一个http从产生到转化，到dns解析得出IP，到TCP/IP，再到webapp，它会产生一个结果，返回给你。错误码是一个非常重要的东西，有非常多，10x 20x 30x 40x 50x，等。错误码也是一种协议。</p>
+<p>小白学编程网站上有一篇文章，<a href="http://code.7xinsheng.com/post/59f6b663f8ffd52dca8eb9d6" title="HTTP错误码汇总，请点击" target="_blank" rel="external">HTTP错误码汇总</a>。</p>
+<h1 id="四、HTTP">四、HTTP</h1><p>经常用到的几个<strong>方法</strong>：</p>
+<ul>
+<li>GET，希望给我一个网页；</li>
+<li>POST，把数据送到服务器；</li>
+<li>DELETE，希望删除数据；</li>
+<li>PUT，对即有的资源做一个差异的变化；</li>
+<li>……</li>
 </ul>
-<h2 id="HTTP、DNS">HTTP、DNS</h2><ul>
-<li>什么是Web</li>
-<li>Web三个基本要素（超文本标记语言、超文本传输协议、统一资源标识符）</li>
-<li>HTTP协议：Web通信的基础</li>
-<li>HTTP协议通信流程</li>
-<li>TCP/IP通信流程</li>
-</ul>
-<h2 id="URI_URL_URN">URI URL URN</h2><ul>
-<li>URI 标识资源</li>
-<li>URI 的两种形式（URL URN）</li>
-<li>URL 统一资源定位符</li>
-<li>URN 统一资源名称</li>
-<li>端口号（HTTP：80，HTTPS：443）</li>
-</ul>
-<p><strong>总结</strong></p>
-<p><img src="http://7xs2f1.com1.z0.glb.clouddn.com/WEB1WEB20.png" alt="第1课简要总结"></p>
-<h1 id="二、POSTMAN软件的操作演示">二、POSTMAN软件的操作演示</h1><p>可以直接到它的官网上下载安装这个软件，后面的课程会用到。</p>
-<p>官网是<a href="https://www.getpostman.com" title="POSTMAN" target="_blank" rel="external">POSTMAN</a></p>
-<p>演示（略）</p>
-<h1 id="三、福利领取">三、福利领取</h1><p>先注册京东云，实名论证，然后凭链接领取。</p>
-<p>福利是京东云主机的三个月账户。</p>
-<p>规格是CPU1核，内存2G。</p>
-<p>为了课程的统一，领取时选取的系统选Ubantu 16.04 64位。</p>
-<p>-</p>
+<p>百分之九十的程序员用前两个。其它的就基本不怎么使用了。为什么有这种现象？因为大家不够重视，没有去用好的意识。</p>
+<p>REST API 非常重要，要重视，以后可深入。</p>
+<h1 id="五、结语">五、结语</h1><p>今天的课程是希望给大家一个方向，知道把关注点放在哪儿。</p>
+<p>不希望新生大学的学员，只知道post，get。</p>
+<p>对数据的控制是一项重要的能力，对网络通道减少一点压力，也是对社会的贡献。</p>
 <p>吉祥</p>
-<p>2017.10.29 15:49:26</p>
+<p>2017.11.05 12:45:26</p>
   
 	</div>
 		<footer class="article-footer clearfix">
@@ -197,18 +202,18 @@
 <nav class="article-nav clearfix">
  
  <div class="prev" >
- <a href="/2017/10/29/20171029_GT2opinion/" title="如何让你的观点更易被他人接受？">
+ <a href="/2017/11/05/20171105_GX4Maslow/" title="马斯洛理论：职场规划如何满足你的需求">
   <strong>上一篇：</strong><br/>
   <span>
-  如何让你的观点更易被他人接受？</span>
+  马斯洛理论：职场规划如何满足你的需求</span>
 </a>
 </div>
 
 
 <div class="next">
-<a href="/2017/10/22/20171022_GT1WHO/"  title="我究竟是谁？">
+<a href="/2017/10/29/20171029_GX3Matrix/"  title="决策矩阵：应对变动，执行规划">
  <strong>下一篇：</strong><br/> 
- <span>我究竟是谁？
+ <span>决策矩阵：应对变动，执行规划
 </span>
 </a>
 </div>
@@ -218,7 +223,7 @@
 	
 <section id="comments" class="comment">
 <!-- 多说评论框 start -->
-	<div class="ds-thread" data-thread-key="2017/10/29/20171029_WEB1WEB/" data-title="Web与网络的基础知识" data-url="http://yoursite.com/2017/10/29/20171029_WEB1WEB/"></div>
+	<div class="ds-thread" data-thread-key="2017/11/05/20171105_WEB2HTTP/" data-title="HTTP基础" data-url="http://yoursite.com/2017/11/05/20171105_WEB2HTTP/"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 <script type="text/javascript">
@@ -242,7 +247,7 @@ var duoshuoQuery = {short_name:"liujixiang"};
   <div id="toc" class="toc-aside">
   <strong class="toc-title">文章目录</strong>
  
- <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#一、基础知识"><span class="toc-number">1.</span> <span class="toc-text">一、基础知识</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#互联网_vs_Web"><span class="toc-number">1.1.</span> <span class="toc-text">互联网 vs Web</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#HTTP、DNS"><span class="toc-number">1.2.</span> <span class="toc-text">HTTP、DNS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#URI_URL_URN"><span class="toc-number">1.3.</span> <span class="toc-text">URI URL URN</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、POSTMAN软件的操作演示"><span class="toc-number">2.</span> <span class="toc-text">二、POSTMAN软件的操作演示</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、福利领取"><span class="toc-number">3.</span> <span class="toc-text">三、福利领取</span></a></li></ol>
+ <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#一、课前闲聊"><span class="toc-number">1.</span> <span class="toc-text">一、课前闲聊</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#二、由请求说开去"><span class="toc-number">2.</span> <span class="toc-text">二、由请求说开去</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#请求"><span class="toc-number">2.1.</span> <span class="toc-text">请求</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#协议"><span class="toc-number">2.2.</span> <span class="toc-text">协议</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#协议的组成"><span class="toc-number">2.3.</span> <span class="toc-text">协议的组成</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#三、传输过程"><span class="toc-number">3.</span> <span class="toc-text">三、传输过程</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#四、HTTP"><span class="toc-number">4.</span> <span class="toc-text">四、HTTP</span></a></li><li class="toc-item toc-level-1"><a class="toc-link" href="#五、结语"><span class="toc-number">5.</span> <span class="toc-text">五、结语</span></a></li></ol>
  
   </div>
 
