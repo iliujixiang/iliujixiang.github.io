@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-05T10:24:20.273Z</updated>
+  <updated>2017-11-12T14:13:03.151Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>网络安全</title>
+    <link href="http://yoursite.com/2017/11/12/20171112_WEB3aq/"/>
+    <id>http://yoursite.com/2017/11/12/20171112_WEB3aq/</id>
+    <published>2017-11-12T07:17:00.000Z</published>
+    <updated>2017-11-12T14:13:03.151Z</updated>
+    
+    <content type="html">&lt;p&gt;新生大学课程《Web与网络基础》第3课：《网络安全》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;一、HTTPS&quot;&gt;一、HTTPS&lt;/h1&gt;&lt;h2 id=&quot;HTTP的缺点&quot;&gt;HTTP的缺点&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;使用明文传输数据&lt;/li&gt;
+&lt;li&gt;不验证通信方的身份&lt;/li&gt;
+&lt;li&gt;不验证数据的正确性，完整性&lt;/li&gt;
+&lt;li&gt;所有未加密的协议都有上述缺点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;HTTPS&quot;&gt;HTTPS&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ01.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ02.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ03.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ04.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ05.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ06.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ07.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ08.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;二、常见安全漏洞&quot;&gt;二、常见安全漏洞&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ09.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;意思大致了解了，老师的操作演示代码不懂。&lt;/p&gt;
+&lt;h1 id=&quot;三、CTF&quot;&gt;三、CTF&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ10.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://w3challs.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://w3challs.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;四、书籍推荐&quot;&gt;四、书籍推荐&lt;/h1&gt;&lt;p&gt;SQL Injection Attacks and Defense 作者 Justin Clarke&lt;/p&gt;
+&lt;p&gt;The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws 作者 Justin Clarke&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ11.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ12.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;五、作业&quot;&gt;五、作业&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/WEB3AQ13.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.11.12 15:59:26&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新生大学课程《Web与网络基础》第3课：《网络安全》&lt;br&gt;
+    
+    </summary>
+    
+      <category term="课程笔记" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="网络" scheme="http://yoursite.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快速读懂别人的技巧</title>
+    <link href="http://yoursite.com/2017/11/12/20171112_GT4JQ/"/>
+    <id>http://yoursite.com/2017/11/12/20171112_GT4JQ/</id>
+    <published>2017-11-12T02:54:00.000Z</published>
+    <updated>2017-11-12T03:51:41.972Z</updated>
+    
+    <content type="html">&lt;p&gt;新生大学课程《怎么沟通，才能人见人爱？》第4课：《快速读懂别人的技巧》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;一、第三课回顾&quot;&gt;一、第三课回顾&lt;/h1&gt;&lt;p&gt;倾听的五个层次&lt;/p&gt;
+&lt;h1 id=&quot;二、第三课作业点评&quot;&gt;二、第三课作业点评&lt;/h1&gt;&lt;p&gt;作业略&lt;/p&gt;
+&lt;h1 id=&quot;三、非言语沟通&quot;&gt;三、非言语沟通&lt;/h1&gt;&lt;h2 id=&quot;一项调查&quot;&gt;一项调查&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD01.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD02.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;非言语沟通有哪些&quot;&gt;非言语沟通有哪些&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD03.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;手势&quot;&gt;手势&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD04.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD05.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;身体姿势&quot;&gt;身体姿势&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD06.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;眼神&quot;&gt;眼神&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD07.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD08.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;头部动作&quot;&gt;头部动作&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD09.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h4 id=&quot;面部表情&quot;&gt;面部表情&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD10.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;语调与语速&quot;&gt;语调与语速&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD11.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD12.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;重点内容的说明技巧&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD13.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD14.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD15.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD16.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD17.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;四、SOLER式的交流方式&quot;&gt;四、SOLER式的交流方式&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD18.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD19.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;五、有效沟通的模式&quot;&gt;五、有效沟通的模式&lt;/h1&gt;&lt;h2 id=&quot;说/听/问&quot;&gt;说/听/问&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD20.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;询问&quot;&gt;询问&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD21.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD22.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD23.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD24.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD25.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;六、成熟沟通的四大法则&quot;&gt;六、成熟沟通的四大法则&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD26.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD27.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD28.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD29.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD30.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;七、彩蛋：沟通的层面&quot;&gt;七、彩蛋：沟通的层面&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD31.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT4DDD32.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;（课程结束）&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.11.12 11:52:24&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新生大学课程《怎么沟通，才能人见人爱？》第4课：《快速读懂别人的技巧》&lt;br&gt;
+    
+    </summary>
+    
+      <category term="课程笔记" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="沟通" scheme="http://yoursite.com/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何听懂别人的言外之意？</title>
+    <link href="http://yoursite.com/2017/11/07/20171107_GT3YWZY/"/>
+    <id>http://yoursite.com/2017/11/07/20171107_GT3YWZY/</id>
+    <published>2017-11-06T23:19:00.000Z</published>
+    <updated>2017-11-12T02:49:21.772Z</updated>
+    
+    <content type="html">&lt;p&gt;新生大学课程《怎么沟通，才能人见人爱？》第3课：《如何听懂别人的言外之意？》&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;一、第二课回顾&quot;&gt;一、第二课回顾&lt;/h1&gt;&lt;p&gt;从发出信息的角度，金字塔结构。&lt;/p&gt;
+&lt;p&gt;彩蛋1：与上级沟通：基本点，不是寻答案，而是寻求启发。&lt;/p&gt;
+&lt;p&gt;彩蛋2：对方固执，晓之以理，动之以情。&lt;/p&gt;
+&lt;h1 id=&quot;二、第二课作业点评&quot;&gt;二、第二课作业点评&lt;/h1&gt;&lt;p&gt;金字塔结构篇&lt;/p&gt;
+&lt;p&gt;作业1～作业7（略）&lt;/p&gt;
+&lt;p&gt;晓之以理动之以情篇&lt;/p&gt;
+&lt;p&gt;作业8～作业10（略）&lt;/p&gt;
+&lt;h1 id=&quot;三、倾听的重要性&quot;&gt;三、倾听的重要性&lt;/h1&gt;&lt;p&gt;上节课是从信息发出者的角度讲的，这节课就从信息接收者的角度来讲。&lt;/p&gt;
+&lt;h2 id=&quot;沟通的主要障碍&quot;&gt;沟通的主要障碍&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR13.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;倾听的重要性&quot;&gt;倾听的重要性&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR14.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR15.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;倾听的好处&quot;&gt;倾听的好处&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR16.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;四、倾听能力小测试&quot;&gt;四、倾听能力小测试&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR17.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR18.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR19.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;五、倾听不良的原因&quot;&gt;五、倾听不良的原因&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR20.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;六、倾听的五个层次&quot;&gt;六、倾听的五个层次&lt;/h1&gt;&lt;h2 id=&quot;倾听的五个层次&quot;&gt;倾听的五个层次&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR21.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;同理心的力量&quot;&gt;同理心的力量&lt;/h2&gt;&lt;p&gt;小视频：同理心的力量（优酷搜索观看）&lt;/p&gt;
+&lt;h2 id=&quot;同理心的运用&quot;&gt;同理心的运用&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR22.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR23.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR24.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;倾听_VS_听到&quot;&gt;倾听 VS 听到&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR25.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;七、小彩蛋：会听&quot;&gt;七、小彩蛋：会听&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR26.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR27.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR28.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;八、作业&quot;&gt;八、作业&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR29.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://7xs2f1.com1.z0.glb.clouddn.com/GT3TDBR30.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;（笔记越来越不认真了-_-!!!）&lt;/p&gt;
+&lt;p&gt;吉祥&lt;/p&gt;
+&lt;p&gt;2017.11.12 10:49:27&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;新生大学课程《怎么沟通，才能人见人爱？》第3课：《如何听懂别人的言外之意？》&lt;br&gt;
+    
+    </summary>
+    
+      <category term="课程笔记" scheme="http://yoursite.com/categories/%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="沟通" scheme="http://yoursite.com/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>马斯洛理论：职场规划如何满足你的需求</title>
